@@ -17,4 +17,5 @@ body {
     height: 100px;
     background-color: tomato;
     margin: 0 5px;
+    border-radius: 10px;
 }
