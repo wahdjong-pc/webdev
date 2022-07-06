@@ -2,3 +2,19 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.kotak-kotak{
+    width: 80%;
+    height: auto;
+    background-color: aliceblue;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+}
+
+.kotak{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    margin: 0 5px;
+}
