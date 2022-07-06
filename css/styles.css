@@ -15,7 +15,6 @@ body {
 .kotak{
     width: 100px;
     height: 100px;
-    background-color: tomato;
+    background-color: brown;
     margin: 0 5px;
-    border-radius: 10px;
 }
